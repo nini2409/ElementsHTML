@@ -1,0 +1,42 @@
+nav{
+    padding: 0 0 0 150px;
+}
+
+.barra{
+    color: white;
+}
+
+body{
+    background-color: #caade3;
+}
+
+.card{
+    background-color: #610588;
+    padding: 0px 114px;
+    margin: 0px 0px;
+}
+
+.paragrafo{
+    padding: 0 0 50px 0;
+    color: white;
+}
+
+h2{
+    padding: 0 0 0 500px;
+    color: white;
+}
+
+footer{
+    background-color: #aa79dc;
+    color: white;
+    padding: 20px 0 0 550px;
+    margin: 0 0 0 0;
+}
+
+.paragrafo-princ{
+    color: #610588;
+}
+
+h1{
+    padding: 0 0 0 700px;
+}
