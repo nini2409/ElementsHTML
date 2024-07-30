@@ -1,13 +1,19 @@
 nav{
+    
     padding: 0 0 0 150px;
+    display: flex;
+    justify-content: flex-end;
+    
 }
 
 .barra{
+    margin: auto 10px;
     color: white;
 }
 
 body{
     background-color: #caade3;
+    
 }
 
 .card{
@@ -22,7 +28,7 @@ body{
 }
 
 h2{
-    padding: 0 0 0 500px;
+    padding: 0;
     color: white;
 }
 
@@ -34,9 +40,70 @@ footer{
 }
 
 .paragrafo-princ{
+    margin: 20px auto;
+    width: 90%;
     color: #610588;
+    display: flex;
+    gap: 100px;
 }
 
+.caixa{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
 h1{
-    padding: 0 0 0 700px;
+    padding: 0;
+    
+}
+
+.parte-2{
+    margin: 0 auto;
+    width: 40%;
+    text-align: center;
+}
+
+.imagem{
+    margin: auto;
+}
+
+.parte-2 p{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.parte-2 h1{
+    font-size: 30px;
+    font-weight: 900;
+}
+
+.imnv{
+    position: absolute;
+    left: 1vw;
+}
+
+.nav{
+    height: 60px;
+}
+
+.other{
+    display: flex;
+    text-align: center;
+    gap: 200px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.texto{
+    width: 40%;
+    margin: 0 auto;
+}
+
+.other img{
+    margin: auto;
+    
 }
